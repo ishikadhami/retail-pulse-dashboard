@@ -1,0 +1,175 @@
+Order_ID,Month,Region,Category,Units,Unit_Price_INR,Revenue_INR,Payment_Method,Data_Note
+ORD001,Jan,South,Home & Kitchen,1,6795,6795,Card,Generated sample data
+ORD002,Jan,East,Clothing,1,2339,2339,Cash,Generated sample data
+ORD003,Jan,North,Home & Kitchen,4,5126,20504,UPI,Generated sample data
+ORD004,Jan,East,Electronics,2,22871,45742,Cash,Generated sample data
+ORD005,Jan,North,Clothing,4,1869,7476,UPI,Generated sample data
+ORD006,Jan,West,Clothing,3,802,2406,Card,Generated sample data
+ORD007,Jan,North,Electronics,4,9273,37092,Cash,Generated sample data
+ORD008,Jan,South,Home & Kitchen,1,5112,5112,UPI,Generated sample data
+ORD009,Jan,North,Electronics,2,21762,43524,UPI,Generated sample data
+ORD010,Feb,West,Electronics,4,17900,71600,Card,Generated sample data
+ORD011,Feb,West,Clothing,4,2467,9868,Cash,Generated sample data
+ORD012,Feb,North,Home & Kitchen,2,2817,5634,Card,Generated sample data
+ORD013,Feb,North,Home & Kitchen,4,5651,22604,Card,Generated sample data
+ORD014,Feb,North,Electronics,3,18064,54192,Cash,Generated sample data
+ORD015,Feb,South,Electronics,2,7035,14070,UPI,Generated sample data
+ORD016,Feb,East,Electronics,2,11191,22382,Cash,Generated sample data
+ORD017,Feb,East,Electronics,4,24682,98728,Card,Generated sample data
+ORD018,Feb,West,Home & Kitchen,4,4552,18208,Card,Generated sample data
+ORD019,Feb,West,Clothing,4,2128,8512,Card,Generated sample data
+ORD020,Mar,West,Clothing,3,853,2559,Card,Generated sample data
+ORD021,Mar,North,Electronics,2,22551,45102,Cash,Generated sample data
+ORD022,Mar,North,Clothing,3,2958,8874,UPI,Generated sample data
+ORD023,Mar,North,Home & Kitchen,1,5341,5341,UPI,Generated sample data
+ORD024,Mar,South,Electronics,3,5069,15207,UPI,Generated sample data
+ORD025,Mar,West,Home & Kitchen,1,1141,1141,UPI,Generated sample data
+ORD026,Mar,East,Clothing,2,3271,6542,Cash,Generated sample data
+ORD027,Mar,South,Home & Kitchen,1,1265,1265,UPI,Generated sample data
+ORD028,Mar,North,Clothing,2,3927,7854,Cash,Generated sample data
+ORD029,Mar,South,Clothing,3,464,1392,UPI,Generated sample data
+ORD030,Mar,North,Electronics,1,12657,12657,UPI,Generated sample data
+ORD031,Apr,West,Electronics,1,13589,13589,UPI,Generated sample data
+ORD032,Apr,East,Home & Kitchen,3,7004,21012,Card,Generated sample data
+ORD033,Apr,East,Home & Kitchen,2,949,1898,Card,Generated sample data
+ORD034,Apr,North,Electronics,3,20905,62715,Card,Generated sample data
+ORD035,Apr,East,Electronics,2,23738,47476,Card,Generated sample data
+ORD036,Apr,West,Electronics,4,11743,46972,Card,Generated sample data
+ORD037,Apr,West,Clothing,3,602,1806,Card,Generated sample data
+ORD038,Apr,East,Home & Kitchen,2,7981,15962,Card,Generated sample data
+ORD039,Apr,North,Electronics,1,11771,11771,Cash,Generated sample data
+ORD040,Apr,South,Clothing,1,2011,2011,Cash,Generated sample data
+ORD041,Apr,East,Clothing,3,723,2169,UPI,Generated sample data
+ORD042,Apr,North,Electronics,3,6491,19473,Cash,Generated sample data
+ORD043,May,North,Clothing,1,3739,3739,UPI,Generated sample data
+ORD044,May,North,Clothing,4,3510,14040,Cash,Generated sample data
+ORD045,May,West,Electronics,1,10560,10560,Cash,Generated sample data
+ORD046,May,South,Home & Kitchen,3,6898,20694,Card,Generated sample data
+ORD047,May,North,Clothing,1,1901,1901,Cash,Generated sample data
+ORD048,May,South,Home & Kitchen,2,6460,12920,Cash,Generated sample data
+ORD049,May,West,Clothing,1,1958,1958,Cash,Generated sample data
+ORD050,May,West,Clothing,2,3054,6108,Cash,Generated sample data
+ORD051,May,East,Electronics,2,20434,40868,Card,Generated sample data
+ORD052,May,North,Home & Kitchen,2,6178,12356,Card,Generated sample data
+ORD053,May,South,Home & Kitchen,3,1632,4896,Card,Generated sample data
+ORD054,May,North,Electronics,4,9298,37192,Card,Generated sample data
+ORD055,May,South,Home & Kitchen,2,6968,13936,Card,Generated sample data
+ORD056,Jun,East,Home & Kitchen,4,3989,15956,Cash,Generated sample data
+ORD057,Jun,North,Electronics,4,15294,61176,UPI,Generated sample data
+ORD058,Jun,West,Electronics,1,7715,7715,Card,Generated sample data
+ORD059,Jun,East,Clothing,1,997,997,Card,Generated sample data
+ORD060,Jun,North,Home & Kitchen,3,2605,7815,Cash,Generated sample data
+ORD061,Jun,South,Home & Kitchen,4,4539,18156,Cash,Generated sample data
+ORD062,Jun,West,Clothing,3,3577,10731,Cash,Generated sample data
+ORD063,Jun,East,Home & Kitchen,1,579,579,Cash,Generated sample data
+ORD064,Jun,North,Electronics,1,5751,5751,Cash,Generated sample data
+ORD065,Jun,North,Home & Kitchen,1,792,792,UPI,Generated sample data
+ORD066,Jun,North,Clothing,3,2501,7503,UPI,Generated sample data
+ORD067,Jun,South,Home & Kitchen,4,4482,17928,UPI,Generated sample data
+ORD068,Jun,East,Clothing,1,1042,1042,Cash,Generated sample data
+ORD069,Jun,East,Home & Kitchen,1,3967,3967,UPI,Generated sample data
+ORD070,Jul,West,Clothing,1,1007,1007,Card,Generated sample data
+ORD071,Jul,East,Home & Kitchen,1,635,635,UPI,Generated sample data
+ORD072,Jul,East,Clothing,3,2203,6609,Card,Generated sample data
+ORD073,Jul,North,Clothing,1,2634,2634,UPI,Generated sample data
+ORD074,Jul,East,Electronics,2,9535,19070,UPI,Generated sample data
+ORD075,Jul,South,Clothing,1,3308,3308,Card,Generated sample data
+ORD076,Jul,East,Electronics,3,15147,45441,UPI,Generated sample data
+ORD077,Jul,North,Home & Kitchen,4,5684,22736,UPI,Generated sample data
+ORD078,Jul,East,Home & Kitchen,2,4881,9762,UPI,Generated sample data
+ORD079,Jul,North,Electronics,4,8399,33596,Cash,Generated sample data
+ORD080,Jul,North,Home & Kitchen,3,6831,20493,Card,Generated sample data
+ORD081,Jul,North,Home & Kitchen,3,5426,16278,UPI,Generated sample data
+ORD082,Jul,North,Electronics,1,23302,23302,UPI,Generated sample data
+ORD083,Jul,South,Home & Kitchen,2,4510,9020,Cash,Generated sample data
+ORD084,Jul,West,Clothing,1,1078,1078,Card,Generated sample data
+ORD085,Aug,North,Home & Kitchen,3,2360,7080,Cash,Generated sample data
+ORD086,Aug,West,Electronics,4,18478,73912,Card,Generated sample data
+ORD087,Aug,East,Clothing,1,2797,2797,Card,Generated sample data
+ORD088,Aug,West,Home & Kitchen,3,5215,15645,Card,Generated sample data
+ORD089,Aug,South,Clothing,3,1573,4719,Card,Generated sample data
+ORD090,Aug,South,Clothing,3,503,1509,Card,Generated sample data
+ORD091,Aug,South,Electronics,4,24202,96808,Card,Generated sample data
+ORD092,Aug,North,Clothing,1,3642,3642,Cash,Generated sample data
+ORD093,Aug,East,Electronics,4,7714,30856,Cash,Generated sample data
+ORD094,Aug,West,Home & Kitchen,1,6901,6901,Cash,Generated sample data
+ORD095,Aug,South,Clothing,3,1901,5703,Card,Generated sample data
+ORD096,Aug,South,Electronics,2,8412,16824,UPI,Generated sample data
+ORD097,Aug,South,Electronics,3,18078,54234,Cash,Generated sample data
+ORD098,Aug,East,Clothing,1,2762,2762,Cash,Generated sample data
+ORD099,Aug,West,Home & Kitchen,4,3634,14536,UPI,Generated sample data
+ORD100,Aug,East,Home & Kitchen,1,5150,5150,Card,Generated sample data
+ORD101,Sep,South,Home & Kitchen,2,5752,11504,Cash,Generated sample data
+ORD102,Sep,West,Electronics,1,11952,11952,UPI,Generated sample data
+ORD103,Sep,West,Electronics,1,8768,8768,Card,Generated sample data
+ORD104,Sep,South,Electronics,4,14424,57696,UPI,Generated sample data
+ORD105,Sep,South,Electronics,2,7492,14984,Card,Generated sample data
+ORD106,Sep,South,Home & Kitchen,1,1533,1533,UPI,Generated sample data
+ORD107,Sep,South,Home & Kitchen,4,1059,4236,Cash,Generated sample data
+ORD108,Sep,East,Clothing,2,2943,5886,UPI,Generated sample data
+ORD109,Sep,West,Home & Kitchen,1,5060,5060,Cash,Generated sample data
+ORD110,Sep,South,Home & Kitchen,4,4255,17020,UPI,Generated sample data
+ORD111,Sep,South,Clothing,2,2623,5246,Card,Generated sample data
+ORD112,Sep,North,Home & Kitchen,4,1013,4052,Cash,Generated sample data
+ORD113,Sep,South,Electronics,3,19937,59811,UPI,Generated sample data
+ORD114,Sep,East,Electronics,3,9179,27537,Card,Generated sample data
+ORD115,Sep,North,Clothing,2,529,1058,Cash,Generated sample data
+ORD116,Sep,North,Clothing,2,1895,3790,Cash,Generated sample data
+ORD117,Sep,North,Clothing,1,986,986,Cash,Generated sample data
+ORD118,Oct,South,Clothing,3,1372,4116,Cash,Generated sample data
+ORD119,Oct,East,Home & Kitchen,2,857,1714,Card,Generated sample data
+ORD120,Oct,South,Electronics,3,14344,43032,UPI,Generated sample data
+ORD121,Oct,East,Home & Kitchen,1,4053,4053,Cash,Generated sample data
+ORD122,Oct,South,Electronics,4,16084,64336,UPI,Generated sample data
+ORD123,Oct,West,Clothing,3,3225,9675,Card,Generated sample data
+ORD124,Oct,North,Home & Kitchen,5,6775,33875,Cash,Generated sample data
+ORD125,Oct,East,Clothing,1,2880,2880,Card,Generated sample data
+ORD126,Oct,North,Electronics,1,9975,9975,Cash,Generated sample data
+ORD127,Oct,East,Electronics,4,17772,71088,Card,Generated sample data
+ORD128,Oct,North,Home & Kitchen,2,6463,12926,UPI,Generated sample data
+ORD129,Oct,East,Home & Kitchen,3,3165,9495,Cash,Generated sample data
+ORD130,Oct,South,Clothing,4,2610,10440,UPI,Generated sample data
+ORD131,Oct,South,Home & Kitchen,4,1301,5204,Card,Generated sample data
+ORD132,Oct,North,Clothing,4,3502,14008,Card,Generated sample data
+ORD133,Oct,West,Home & Kitchen,1,4135,4135,Cash,Generated sample data
+ORD134,Oct,North,Electronics,5,4777,23885,UPI,Generated sample data
+ORD135,Oct,East,Home & Kitchen,2,6022,12044,UPI,Generated sample data
+ORD136,Nov,North,Home & Kitchen,4,1987,7948,Cash,Generated sample data
+ORD137,Nov,South,Electronics,4,20988,83952,Cash,Generated sample data
+ORD138,Nov,West,Electronics,3,18822,56466,Card,Generated sample data
+ORD139,Nov,East,Electronics,3,13324,39972,Cash,Generated sample data
+ORD140,Nov,South,Electronics,1,21339,21339,Cash,Generated sample data
+ORD141,Nov,East,Clothing,4,3181,12724,UPI,Generated sample data
+ORD142,Nov,West,Clothing,3,1619,4857,Cash,Generated sample data
+ORD143,Nov,South,Home & Kitchen,5,4901,24505,Card,Generated sample data
+ORD144,Nov,East,Clothing,4,1020,4080,UPI,Generated sample data
+ORD145,Nov,West,Home & Kitchen,3,1546,4638,Cash,Generated sample data
+ORD146,Nov,East,Home & Kitchen,1,7327,7327,UPI,Generated sample data
+ORD147,Nov,West,Home & Kitchen,3,6301,18903,Card,Generated sample data
+ORD148,Nov,North,Clothing,5,3988,19940,UPI,Generated sample data
+ORD149,Nov,South,Electronics,2,18565,37130,Cash,Generated sample data
+ORD150,Nov,North,Clothing,3,941,2823,Card,Generated sample data
+ORD151,Nov,West,Clothing,3,1308,3924,Cash,Generated sample data
+ORD152,Nov,East,Home & Kitchen,3,6386,19158,Card,Generated sample data
+ORD153,Nov,South,Clothing,1,3660,3660,UPI,Generated sample data
+ORD154,Nov,West,Electronics,4,16419,65676,UPI,Generated sample data
+ORD155,Dec,West,Home & Kitchen,4,4363,17452,Card,Generated sample data
+ORD156,Dec,East,Home & Kitchen,2,1760,3520,Cash,Generated sample data
+ORD157,Dec,North,Electronics,3,10714,32142,UPI,Generated sample data
+ORD158,Dec,West,Electronics,4,21335,85340,Card,Generated sample data
+ORD159,Dec,West,Home & Kitchen,4,708,2832,Cash,Generated sample data
+ORD160,Dec,South,Home & Kitchen,4,1686,6744,Cash,Generated sample data
+ORD161,Dec,South,Electronics,4,20559,82236,Cash,Generated sample data
+ORD162,Dec,South,Home & Kitchen,3,4280,12840,Card,Generated sample data
+ORD163,Dec,East,Clothing,3,3494,10482,UPI,Generated sample data
+ORD164,Dec,South,Clothing,4,2182,8728,UPI,Generated sample data
+ORD165,Dec,East,Clothing,1,2880,2880,Cash,Generated sample data
+ORD166,Dec,South,Clothing,2,1452,2904,Cash,Generated sample data
+ORD167,Dec,South,Home & Kitchen,2,3681,7362,Cash,Generated sample data
+ORD168,Dec,West,Electronics,3,4902,14706,Cash,Generated sample data
+ORD169,Dec,North,Home & Kitchen,2,7524,15048,Card,Generated sample data
+ORD170,Dec,North,Clothing,4,1332,5328,Cash,Generated sample data
+ORD171,Dec,East,Home & Kitchen,5,3314,16570,UPI,Generated sample data
+ORD172,Dec,North,Electronics,2,7867,15734,Card,Generated sample data
+ORD173,Dec,South,Electronics,3,7520,22560,UPI,Generated sample data
+ORD174,Dec,South,Clothing,4,2775,11100,UPI,Generated sample data
